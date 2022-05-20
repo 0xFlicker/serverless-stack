@@ -1,5 +1,19 @@
 # @serverless-stack/cli
 
+## 1.2.0
+
+### Minor Changes
+
+- [#1710](https://github.com/serverless-stack/serverless-stack/pull/1710) [`e170ea3f`](https://github.com/serverless-stack/serverless-stack/commit/e170ea3fb586cbe36e11beb8f9d9af4f420c2d7e) Thanks [@thdxr](https://github.com/thdxr)! - Moved codebase to ESM. This should not have any impact on your codebase if you are not using ESM. If you are using ESM and you are using an esbuild plugin, be sure to rename your plugins file to have a .cjs extension
+
+### Patch Changes
+
+- [#1710](https://github.com/serverless-stack/serverless-stack/pull/1710) [`e170ea3f`](https://github.com/serverless-stack/serverless-stack/commit/e170ea3fb586cbe36e11beb8f9d9af4f420c2d7e) Thanks [@thdxr](https://github.com/thdxr)! - Move graphql to peer dep
+
+- Updated dependencies [[`e170ea3f`](https://github.com/serverless-stack/serverless-stack/commit/e170ea3fb586cbe36e11beb8f9d9af4f420c2d7e), [`e170ea3f`](https://github.com/serverless-stack/serverless-stack/commit/e170ea3fb586cbe36e11beb8f9d9af4f420c2d7e), [`9f6c465a`](https://github.com/serverless-stack/serverless-stack/commit/9f6c465a71ecb7b074fed4a45960f4600fde6202)]:
+  - @serverless-stack/core@1.2.0
+  - @serverless-stack/resources@1.2.0
+
 ## 1.1.2
 
 ### Patch Changes

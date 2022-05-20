@@ -1,5 +1,11 @@
 # @serverless-stack/node
 
+## 1.2.0
+
+### Patch Changes
+
+- [#1710](https://github.com/serverless-stack/serverless-stack/pull/1710) [`e170ea3f`](https://github.com/serverless-stack/serverless-stack/commit/e170ea3fb586cbe36e11beb8f9d9af4f420c2d7e) Thanks [@thdxr](https://github.com/thdxr)! - Move graphql to peer dep
+
 ## 1.1.2
 
 ## 1.1.1
